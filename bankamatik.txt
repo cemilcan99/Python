@@ -1,2 +1,2 @@
-şifre= fener1907
+şifre= 1234
 para çekme uygulaması
