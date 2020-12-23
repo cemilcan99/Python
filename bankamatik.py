@@ -6,7 +6,7 @@ hesap= {
     "hesap no" : "12345667",
     "bakiye"  : 4000,
     "ek hesap" : 2000,
-    "şifre": "fener1907"
+    "şifre": "1234"
 
 }
 
